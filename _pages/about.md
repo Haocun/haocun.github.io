@@ -10,7 +10,6 @@ redirect_from:
 I am a Marie-Curie Postdoctoral Fellow at University of Vienna, working with [Philip Walther](https://walther.univie.ac.at/). I received my Ph.D. in Physics from MIT in 2020 and BSc from Imperial College London in 2015. 
 
 <!---
----
 I am dedicated to pushing the boundaries of quantum technology and unlocking its potential for solving complex problems in information processing and fundamental sciences. My research focuses on developing cutting-edge quantum hardware to overcome the limitations of existing solid-state quantum platforms and explore uncharted territories in physics research. Having previously introduced long-range connectivity to superconducting circuit architectures, I am now a Miller Fellow, investigating innovative telecom-band quantum emitters in the mature silicon host material. Combining my background in micro- and nano-photonic devices, I am interested in creating robust, scalable quantum processors that can simulate many-body physics and drive advancements in both practical applications and theoretical understanding.
 
 I have been fortunate to have collaborated with outstanding mentors/colleagues from around the world, including [Oskar Painter](https://painterlab.caltech.edu/faculty/), [Soonwon Choi](https://physics.mit.edu/faculty/soonwon-choi/), [Alejandro González-Tudela](https://sites.google.com/view/gonzaleztudela), [Kerry Vahala](https://vahala.caltech.edu/people), [Yun-Feng Xiao](http://researchgroups.pku.edu.cn/microcavity/en/zdylm/12811/list/index.htm), and [Wenshan Cai](https://cailab.gatech.edu/group.html).
@@ -34,5 +33,4 @@ on a photonic-bandgap metamaterial'' is published in Science as a Research Artic
 * **8/24/2022** I'm giving an invited talk at the [AMI/QI seminar](http://amophysics.berkeley.edu/current-listings/2022/8/24/amoqi-290f-xueyue-zhang-caltech) (UC Berkeley)  titled "A scalable superconducting quantum architecture with long-range connectivity". 
 * **8/15/2022** I'm giving an invited special seminar in Prof. [Liang Jiang](https://pme.uchicago.edu/group/jiang-group)'s group at University of Chicago  titled "A scalable superconducting quantum architecture with long-range connectivity". Thank you, Liang, for inviting me!
 * **7/12/2022** I'm giving an invited special seminar in Prof. [Norman Yao](https://quantumoptics.physics.berkeley.edu/)'s group at UC Berkeley  titled "A scalable superconducting quantum architecture with long-range connectivity". Thank you, Norm, for inviting me!
-
-->
+-->
