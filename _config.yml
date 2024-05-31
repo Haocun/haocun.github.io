@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Haocun Yu / 于皓存"
+title                    : "Haocun Yu / Ph.D."
 title_separator          : "-"
 name                     : &name "Haocun Yu"
 description              : &description "personal description"
