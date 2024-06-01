@@ -7,14 +7,33 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a Marie-Curie Postdoctoral Fellow at University of Vienna, working with [Philip Walther](https://walther.univie.ac.at/). I received my Ph.D. in Physics from MIT in 2020 and BSc from Imperial College London in 2015. 
+I am a Marie-Curie Postdoctoral Fellow at the University of Vienna, working with [Prof. Philip Walther](https://walther.univie.ac.at/). 
+I received my Ph.D. in Physics from MIT LIGO in 2020, under the supervision of [Prof. Nergis Mavalvala](https://physics.mit.edu/faculty/nergis-mavalvala/). I received my BSc from Imperial College London in 2015. 
 
+My research is dedicated to quantum-enhanced precision measurements for fundamental physics, including gravitational-wave detectors, and the interface between macroscopic quantum and gravity.
+
+Feel free to reach me at haocunyu(at)mit(dot)edu!
+
+
+## News and activities
+* **9/2024** I was awarded [2024 Rising Star in Physics](https://www.physics.columbia.edu/content/2024-rising-stars-physics-workshop). Thank you, all the committee members for putting together a wonderful workshop! Hope to connect with you there!
+* **11/2023** I am honored to be awarded the [2023 Boeing Quantum Creator Prize](https://chicagoquantum.org/education-and-training/2023-boeing-quantum-creators-prize-winners)). 
+* **11/2021** I am honored to be 2021 MIT Technology Review Innovators Under 35 of China [TR35](https://www.innovatorsunder35.com/the-list/haocun-yu/).
+
+
+  
 <!---
+
+I will be in Chicago for the [2023 Chicago Quantum Summit](https://chicagoquantum.org/events/2023-chicago-quantum-summit) and the Quantum Creator Symposium. 
+
+* **8/3/2023** It was really fun giving a Spark talk at the Challenge Institute of Quantum Computing ([CIQC](https://ciqc.berkeley.edu/)) quantum gathering. Such a wonderful way to integrate myself in a great quantum community. <img src="/images/CIQC_site.png" alt="Addressing connectivity challenges in quantum hardware">
+* **7/19/2023** It has been a pleasure attending the [QuNeW workshop](https://quantumnetworksworkshop2.splashthat.com/) where I presented preliminary results on color centers in silicon. It was really nice networking with many experts in my first quantum networking workshop/conference.
+
 I am dedicated to pushing the boundaries of quantum technology and unlocking its potential for solving complex problems in information processing and fundamental sciences. My research focuses on developing cutting-edge quantum hardware to overcome the limitations of existing solid-state quantum platforms and explore uncharted territories in physics research. Having previously introduced long-range connectivity to superconducting circuit architectures, I am now a Miller Fellow, investigating innovative telecom-band quantum emitters in the mature silicon host material. Combining my background in micro- and nano-photonic devices, I am interested in creating robust, scalable quantum processors that can simulate many-body physics and drive advancements in both practical applications and theoretical understanding.
 
 I have been fortunate to have collaborated with outstanding mentors/colleagues from around the world, including [Oskar Painter](https://painterlab.caltech.edu/faculty/), [Soonwon Choi](https://physics.mit.edu/faculty/soonwon-choi/), [Alejandro González-Tudela](https://sites.google.com/view/gonzaleztudela), [Kerry Vahala](https://vahala.caltech.edu/people), [Yun-Feng Xiao](http://researchgroups.pku.edu.cn/microcavity/en/zdylm/12811/list/index.htm), and [Wenshan Cai](https://cailab.gatech.edu/group.html).
 
-Feel free to reach me at haocunyu(at)mit(dot)edu!
+
 
 ## News and activities
 * **11/14/2023** I am honored to be awarded the Boeing [Quantum Creator Prize](https://chicagoquantum.org/education-and-training/quantum-creators-prize#:~:text=The%20prize%20promotes%20researchers%20whose,a%20broad%20range%20of%20backgrounds.). I will be in Chicago for the [2023 Chicago Quantum Summit](https://chicagoquantum.org/events/2023-chicago-quantum-summit) and the Quantum Creator Symposium. Hope to connect with you there!
