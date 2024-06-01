@@ -8,6 +8,8 @@
 * Poster, 2024 Gravitational Wave Advanced Detector Workshop, Australia.	2024
 * Poster, 2023 Atomic Physics Conference GRC, RI, US.	2023
 * Poster, SFB BeyondC Conference 2022, Vienna, Austria.	2022
+* The LIGO-Virgo-KAGRA Collaboration March Meeting, virtual. 2020
+* Contributed talk, Gravitational Wave Advanced Detector Workshop, Elba, Italy.	2019
 
 
 <!--
@@ -17,9 +19,8 @@ Invited talk. Wilczek Quantum Center, Shanghai JiaoTong University, China, virtu
 Poster, “Frontiers of Nanomechanics” Workshop, Max Planck Institute for the Science of Light, Germany, virtual.	2020
 Poster, OSA Quantum 2.0 Conference, virtual.	2020
 
-The LIGO-Virgo-KAGRA Collaboration March Meeting, virtual.	2020
+
 Invited talk, GrEAT Conference, Wuhan, China.	2019
-Contributed talk, Gravitational Wave Advanced Detector Workshop, Elba, Italy.	2019
 Invited talk, Shanghai Observatory, Shanghai, China.	2018
 Poster, QCMC International Conference, Baton Rouge, LA, US.	2018
 Gordon Research Conference: Mechanical System in the Quantum Regime. Stowe, VT, US.	201
