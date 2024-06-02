@@ -5,14 +5,14 @@ author_profile: true
 ---
 
 
-* Boeing Quantum Creators Prize with $3500 honorarium, Chicago Quantum Exchange, US 	2023
-* Top Ten Leading Chinese Technology Talents in Europe	2023
-* 2021 TR35 – Innovators Under 35 China, MIT Technology Review	2022
-* 2021 Carl E. Anderson Division of Laser Science Dissertation Award, APS	2021
-* Martin Deutsch Student Award, MIT	2019
-* Seo Fellowship, Department of Physics, MIT	2015
-* Creative Prize, as a team coach, PLANCKS International Physics Olympiad, Netherlands	2014
-* Meritorious Winner, 2013 Mathematical Contest in Modelling, US	2013		
+* [Boeing Quantum Creators Prize](https://chicagoquantum.org/education-and-training/2023-boeing-quantum-creators-prize-winners) with $3500 honorarium, Chicago Quantum Exchange, US. 2023
+* Top Ten Leading Chinese Technology Talents in Europe. 2023
+* [2021 TR35](https://www.innovatorsunder35.com/the-list/haocun-yu/) – Innovators Under 35 China, MIT Technology Review. 2022
+* [Carl E. Anderson Division of Laser Science Dissertation Award, APS](https://www.aps.org/funding-recognition/award/anderson-dissertation). 2021
+* [Martin Deutsch Student Award](https://physics.mit.edu/academic-programs/student-awards/), MIT. 2019
+* Seo Fellowship, Department of Physics, MIT. 2015
+* Creative Prize, as a team coach, PLANCKS International Physics Olympiad, Netherlands. 2014
+* Meritorious Winner, 2013 Mathematical Contest in Modelling, US. 2013		
 
 
 
@@ -20,18 +20,12 @@ author_profile: true
 
 <!--
 Awards & Honors
-Boeing Quantum Creators Prize with $3500 honorarium, Chicago Quantum Exchange, US 	2023	
 Top Ten Leading Chinese Technology Talents in Europe	2023	
-2021 TR35 – Innovators Under 35 China, MIT Technology Review	2022	
-2021 Carl E. Anderson Division of Laser Science Dissertation Award, APS	2021	
 Kaufman Teaching Certificate, MIT	2020	
 Leadership and Professional Strategies and Skills Certificate, MIT, US	2020	
-Martin Deutsch Student Award, MIT	2019	
 Conflict Management and Mediation Skills Training Certificate, MIT	2017	
-Seo Fellowship, Department of Physics, MIT	2015	
 Associate of the Royal College of Science, Imperial College London, UK	2015	
-Creative Prize, as a team coach, PLANCKS International Physics Olympiad, Netherlands	2014	
-Meritorious Winner, 2013 Mathematical Contest in Modelling, US	2013	
+
 
 
 * [Characterization of a superconducting metamaterial quantum many-body simulator](https://meetings.aps.org/Meeting/MAR22/Session/N41.6) <br> <ins>Xueyue Zhang</ins>, Eun Jong Kim, Oskar Painter. APS March Meeting, Chicago IL (2022)
