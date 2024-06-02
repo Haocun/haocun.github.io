@@ -1,11 +1,10 @@
 ---
 permalink: /awards/
-title: "Awards"
+title: "Awards & Honors"
 author_profile: true
 ---
 
 
-# Awards & Honors
 * Boeing Quantum Creators Prize with $3500 honorarium, Chicago Quantum Exchange, US 	2023
 * Top Ten Leading Chinese Technology Talents in Europe	2023
 * 2021 TR35 – Innovators Under 35 China, MIT Technology Review	2022
