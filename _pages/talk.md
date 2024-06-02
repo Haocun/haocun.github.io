@@ -1,6 +1,6 @@
 ---
 permalink: /talk/
-title: "Talk"
+title: ""
 author_profile: true
 ---
 
