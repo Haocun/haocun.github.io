@@ -1,3 +1,10 @@
+---
+permalink: /talk/
+title: "Talk"
+author_profile: true
+---
+
+
 # Invited talks
 * Optica Sensing Congress, Toulouse, France. 2024
 * 2023 Chicago Quantum Summit, IL, US.	2023
