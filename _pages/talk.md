@@ -9,7 +9,7 @@ author_profile: true
 * Optica Sensing Congress, Toulouse, France. 2024
 * 2023 Chicago Quantum Summit, IL, US.	2023
 * Colloquium at ETH Zurich, Switzerland.	2023
-* Workshop: Brainstorming new ideas for the km-scale facilities University of Birmingham, UK.	2023
+* Workshop: Brainstorming new ideas for the km-scale facilities, Birmingham, UK.	2023
 * Colloquium at Bard College, NY, US, virtual.	2021
 * Wilczek Quantum Center, Shanghai JiaoTong University, China, virtual.	2020
 * QSIT seminar, ETH Zurich, Switzerland, virtual.	2020
