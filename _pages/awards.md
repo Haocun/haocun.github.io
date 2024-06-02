@@ -5,7 +5,7 @@ author_profile: true
 ---
 
 
-* [Boeing Quantum Creators Prize](https://chicagoquantum.org/education-and-training/2023-boeing-quantum-creators-prize-winners) with $3500 honorarium, Chicago Quantum Exchange, US. 2023
+* [Boeing Quantum Creators Prize](https://chicagoquantum.org/education-and-training/2023-boeing-quantum-creators-prize-winners), Chicago Quantum Exchange, US. 2023
 * Top Ten Leading Chinese Technology Talents in Europe. 2023
 * [2021 TR35](https://www.innovatorsunder35.com/the-list/haocun-yu/) – Innovators Under 35 China, MIT Technology Review. 2022
 * [Carl E. Anderson Division of Laser Science Dissertation Award, APS](https://www.aps.org/funding-recognition/award/anderson-dissertation). 2021
@@ -20,7 +20,6 @@ author_profile: true
 
 <!--
 Awards & Honors
-Top Ten Leading Chinese Technology Talents in Europe	2023	
 Kaufman Teaching Certificate, MIT	2020	
 Leadership and Professional Strategies and Skills Certificate, MIT, US	2020	
 Conflict Management and Mediation Skills Training Certificate, MIT	2017	
