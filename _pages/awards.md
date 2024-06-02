@@ -1,3 +1,10 @@
+---
+permalink: /awards/
+title: "Awards"
+author_profile: true
+---
+
+
 # Awards & Honors
 * Boeing Quantum Creators Prize with $3500 honorarium, Chicago Quantum Exchange, US 	2023
 * Top Ten Leading Chinese Technology Talents in Europe	2023
