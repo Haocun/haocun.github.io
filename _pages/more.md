@@ -1,20 +1,20 @@
 ---
 layout: archive
 title: ""
-permalink: /teaching/
+permalink: /more/
 author_profile: true
 ---
 
 # Teaching
+* [Kaufman Teaching Certificate](https://tll.mit.edu/programming/grad-student-programming/kaufman-teaching-certificate-program/), MIT	2020
 * Teaching assistant [8.223 IAP 2017 Undergraduate Classical Mechanics II](https://ocw.mit.edu/courses/8-223-classical-mechanics-ii-january-iap-2017/)
 
+
 # Professional training
-* Kaufman Teaching Certificate, MIT	2020
 * Leadership and Professional Strategies and Skills Certificate, MIT, US	2020	
 * Conflict Management and Mediation Skills Training Certificate, MIT	2017	
-* Associate of the Royal College of Science, Imperial College London, UK	2015
 
-# Diversity
+# Diversity, Equity & Inclusion
 * [MIT Physics Resources for Easing Friction and Stress (PhysREFS)](https://physrefs.mit.edu/)  2016–2021 
 * [MIT Physics Community Values](https://physics.mit.edu/about-physics/community-values/)	2017–2021
 
@@ -24,11 +24,11 @@ author_profile: true
 
 
 <!--
+# Professional services
 Member of Cosmic Explorer Consortium, US	2024 –
 Reviewer, Optica, US	2021 –
 Member of Early Career, American Physical Society, US	2020 –
 Member of Early Career, Optica, US	2020 –
-
 Member of LIGO Scientific Collaboration, Instrument Working Group	2016 – 21
 
 -->
