@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-[CV](http://haocun-yu.github.io/files/CV_website.pdf) updated in 2024.
+[CV](http://haocun-yu.github.io/files/CV_HY_2024.pdf) updated in 2024.
