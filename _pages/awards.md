@@ -5,6 +5,7 @@ author_profile: true
 ---
 
 
+* [Rising Stars in Physics](https://www.physics.columbia.edu/content/2024-rising-stars-physics-workshop), US. 2024
 * [Boeing Quantum Creators Prize](https://chicagoquantum.org/education-and-training/2023-boeing-quantum-creators-prize-winners), Chicago Quantum Exchange, US. 2023
 * Top Ten Leading Chinese Technology Talents in Europe. 2023
 * [2021 TR35](https://www.innovatorsunder35.com/the-list/haocun-yu/) – Innovators Under 35 China, MIT Technology Review. 2022
