@@ -1,4 +1,6 @@
 # Invited talks
+* Quantum Science & Technology seminar @ USC, US. 2024/10
+* Princeton University, US. 2024/09
 * Optica Sensing Congress, Toulouse, France. 2024
 * 2023 Chicago Quantum Summit, IL, US.	2023
 * Workshop: Brainstorming new ideas for the km-scale facilities University of Birmingham, UK.	2023
