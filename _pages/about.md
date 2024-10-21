@@ -7,16 +7,16 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a Marie-Curie Postdoctoral Fellow at the University of Vienna, working with [Prof. Philip Walther](https://walther.univie.ac.at/). 
+I am currently a Marie-Curie Postdoctoral Fellow at the University of Vienna, working with [Prof. Philip Walther](https://walther.univie.ac.at/). 
 I received my Ph.D. in Physics from MIT LIGO in 2020, under the supervision of [Prof. Nergis Mavalvala](https://physics.mit.edu/faculty/nergis-mavalvala/). I received my BSc from Imperial College London in 2015. 
 
-My research is dedicated to quantum-enhanced precision measurements for fundamental physics, including gravitational-wave detectors, and the interface between macroscopic quantum and gravity.
+My research interests lie in interdisciplinary research that advances quantum sensing and metrology technologies, along with their applications in quantum information processing and the exploration of fundamental questions in physics.
 
 Feel free to reach me at haocunyu(at)mit(dot)edu!
 
 
 ## News and activities
-* **9/2024** I am awarded [2024 Rising Star in Physics](https://www.physics.columbia.edu/content/2024-rising-stars-physics-workshop). Thank you to all the committee members for putting together a wonderful workshop! Hope to connect with you there!
+* **9/2024** I am awarded [2024 Rising Star in Physics](https://www.physics.columbia.edu/content/2024-rising-stars-physics-workshop). Thank you to all the committee members for putting together a wonderful workshop!
 * **1/2024** I have joined the [The Cosmic Explorer Consortium](https://cosmicexplorer.org/consortium.html) and look forward to contributing to the development of next-generation gravitational-wave observatories!
 * **11/2023** I am honored to be awarded the [2023 Boeing Quantum Creator Prize](https://chicagoquantum.org/education-and-training/2023-boeing-quantum-creators-prize-winners). Thank you!
 * **10/2022** Our project ["GRAVITES" – exploring how quantum entangled particles gravitate](https://medienportal.univie.ac.at/en/media/recent-press-releases/detailansicht-en/artikel/erc-synergy-grant-for-shining-light-on-the-interplay-between-gravity-and-the-quantum-world/) has been awarded the prestigious ERC Synergy Grant, worth almost 9 million Euros! Congratulations!
