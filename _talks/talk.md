@@ -1,16 +1,16 @@
 # Invited talks
 * Invited speaker on Photonic Quantum Sensing, DAMOP 2026, RI, US. 2026/06
-* Quantum Colloquium @ University of Tennessee at Chattanooga, TN, US. March 12, 2026
-* Physics Colloquium @ Syracuse University, NY, US. Dec 12, 2025
-* Invited speaker, Southeastern Quantum Conference, TN, US. Oct 28, 2025
-* AMO seminar @ Johns Hopkins University, MD, US. March 10, 2026
-* Physics Colloquium @ University of Maryland, Baltimore County, MD, US. Feb 26, 2025 
-* Quantum seminar @ Columbia University, NY, US. Feb 20, 2025
-* Atomic physics seminar @ University of Wisconsin–Madison, WI, US. Feb 17, 2025
-* Colloquium @ University of Pittsburgh, PA, US. Feb 13, 2025
-* Physics Colloquium @ University of Miami, FL, US. Feb 10, 2025
-* Colloquium @ University of Virginia, VA, US. Feb 7, 2025
-* The Future of Physics @ Imperial College, London, UK. Jan 15, 2025
+* Quantum Colloquium @ University of Tennessee at Chattanooga, TN, US. 03/12, 2026
+* Physics Colloquium @ Syracuse University, NY, US. 12/12, 2025
+* Invited speaker, Southeastern Quantum Conference, TN, US. 10/28, 2025
+* AMO seminar @ Johns Hopkins University, MD, US. 03/10, 2026
+* Physics Colloquium @ University of Maryland, Baltimore County, MD, US. 02/26, 2025 
+* Quantum seminar @ Columbia University, NY, US. 02/20, 2025
+* Atomic physics seminar @ University of Wisconsin–Madison, WI, US. 02/17, 2025
+* Colloquium @ University of Pittsburgh, PA, US. 02/13, 2025
+* Physics Colloquium @ University of Miami, FL, US. 02/10, 2025
+* Colloquium @ University of Virginia, VA, US. 02/07, 2025
+* The Future of Physics @ Imperial College, London, UK. 01/15, 2025
 * Quantum Science & Technology seminar @ USC, CA, US. 2024/10
 * Princeton University, US. 2024/09
 * Optica Sensing Congress, Toulouse, France. 2024
