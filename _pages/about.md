@@ -7,12 +7,13 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am currently a Marie-Curie Postdoctoral Fellow at the University of Vienna, working with [Prof. Philip Walther](https://walther.univie.ac.at/). 
+I am currently an Assistant Professor at the University of Tennessee, Knoxville. 
+I was an Marie-Curie Postdoctoral Fellow at the University of Vienna, working with [Prof. Philip Walther](https://walther.univie.ac.at/). 
 I received my Ph.D. in Physics from MIT LIGO in 2020, under the supervision of [Prof. Nergis Mavalvala](https://physics.mit.edu/faculty/nergis-mavalvala/). I received my BSc from Imperial College London in 2015. 
 
 My research interests lie in interdisciplinary research that advances quantum sensing and metrology technologies, along with their applications in quantum information processing and the exploration of fundamental questions in physics.
 
-Feel free to reach me at haocunyu(at)mit(dot)edu!
+Feel free to reach me at haocunyu(at)utk(dot)edu!
 
 
 ## News and activities
