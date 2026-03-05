@@ -1,13 +1,26 @@
 # Invited talks
-* Quantum Science & Technology seminar @ USC, US. 2024/10
+* Invited speaker on Photonic Quantum Sensing, DAMOP 2026, RI, US. 2026/06
+* Quantum Colloquium @ University of Tennessee at Chattanooga, TN, US. March 12, 2026
+* Physics Colloquium @ Syracuse University, NY, US. Dec 12, 2025
+* Invited speaker, Southeastern Quantum Conference, TN, US. Oct 28, 2025
+* AMO seminar @ Johns Hopkins University, MD, US. March 10, 2026
+* Physics Colloquium @ University of Maryland, Baltimore County, MD, US. Feb 26, 2025 
+* Quantum seminar @ Columbia University, NY, US. Feb 20, 2025
+* Atomic physics seminar @ University of Wisconsin–Madison, WI, US. Feb 17, 2025
+* Colloquium @ University of Pittsburgh, PA, US. Feb 13, 2025
+* Physics Colloquium @ University of Miami, FL, US. Feb 10, 2025
+* Colloquium @ University of Virginia, VA, US. Feb 7, 2025
+* The Future of Physics @ Imperial College, London, UK. Jan 15, 2025
+* Quantum Science & Technology seminar @ USC, CA, US. 2024/10
 * Princeton University, US. 2024/09
 * Optica Sensing Congress, Toulouse, France. 2024
-* 2023 Chicago Quantum Summit, IL, US.	2023
-* Workshop: Brainstorming new ideas for the km-scale facilities University of Birmingham, UK.	2023
+* 2023 Chicago Quantum Summit, IL, US. 2023
+* Workshop: Brainstorming new ideas for the km-scale facilities, University of Birmingham, UK. 2023
 * Colloquium @ Bard College, NY, US, virtual.	2021
 * QSIT seminar, ETH Zurich, Switzerland, virtual.	2020
 
 # Conferences
+* DAMOP 2025, OR, US. 2025
 * Gravitational Wave Advanced Detector Workshop, Australia.	2024
 * Atomic Physics Conference GRC, RI, US.	2023
 * SFB BeyondC Conference 2022, Vienna, Austria.	2022
