@@ -4,26 +4,37 @@ title: ""
 author_profile: true
 ---
 
-
 # Invited talks
+* Invited speaker on Photonic Quantum Sensing, DAMOP 2026, RI, US. 2026/06
+* Quantum Colloquium @ University of Tennessee at Chattanooga, TN, US. 03/12, 2026
+* Physics Colloquium @ Syracuse University, NY, US. 12/12, 2025
+* Invited speaker, Southeastern Quantum Conference, TN, US. 10/28, 2025
+* AMO seminar @ Johns Hopkins University, MD, US. 03/10, 2026
+* Physics Colloquium @ University of Maryland, Baltimore County, MD, US. 02/26, 2025 
+* Quantum seminar @ Columbia University, NY, US. 02/20, 2025
+* Atomic physics seminar @ University of Wisconsin–Madison, WI, US. 02/17, 2025
+* Colloquium @ University of Pittsburgh, PA, US. 02/13, 2025
+* Physics Colloquium @ University of Miami, FL, US. 02/10, 2025
+* Colloquium @ University of Virginia, VA, US. 02/07, 2025
+* The Future of Physics @ Imperial College, London, UK. 01/15, 2025
+* Quantum Science & Technology seminar @ USC, CA, US. 2024/10
+* Princeton University, US. 2024/09
 * Optica Sensing Congress, Toulouse, France. 2024
-* 2023 Chicago Quantum Summit, IL, US.	2023
-* Colloquium at ETH Zurich, Switzerland.	2023
-* Workshop: Brainstorming new ideas for the km-scale facilities, Birmingham, UK.	2023
-* Colloquium at Bard College, NY, US, virtual.	2021
-* Wilczek Quantum Center, Shanghai JiaoTong University, China, virtual.	2020
+* 2023 Chicago Quantum Summit, IL, US. 2023
+* Workshop: Brainstorming new ideas for the km-scale facilities, University of Birmingham, UK. 2023
+* Colloquium @ Bard College, NY, US, virtual.	2021
 * QSIT seminar, ETH Zurich, Switzerland, virtual.	2020
 
 # Conferences
+* DAMOP 2025, OR, US. 2025
 * Gravitational Wave Advanced Detector Workshop, Australia.	2024
-* Gordon Research Conference: Atomic Physics Conference, RI, US.	2023
+* Atomic Physics Conference GRC, RI, US.	2023
 * SFB BeyondC Conference 2022, Vienna, Austria.	2022
+* The LIGO-Virgo-KAGRA Collaboration March Meeting, virtual. 2020
 * “Frontiers of Nanomechanics” Workshop, Max Planck Institute for the Science of Light, Germany, virtual.	2020
 * OSA Quantum 2.0 Conference, virtual.	2020
-* The LIGO-Virgo-KAGRA Collaboration March Meeting, virtual. 2020
 * Contributed talk, Gravitational Wave Advanced Detector Workshop, Elba, Italy.	2019
 * QCMC International Conference, Baton Rouge, LA, US.	2018
-* Gordon Research Conference: Mechanical System in the Quantum Regime. Stowe, VT, US.	2016
 
 
 <!--
