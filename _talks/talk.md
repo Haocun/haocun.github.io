@@ -1,9 +1,10 @@
 # Invited talks
+* Invited speaker, Quantum Innovation 2026, Nagoya, Japan. 12/09, 2026
 * Invited speaker on Photonic Quantum Sensing, DAMOP 2026, RI, US. 2026/06
 * Quantum Colloquium @ University of Tennessee at Chattanooga, TN, US. 03/12, 2026
 * Physics Colloquium @ Syracuse University, NY, US. 12/12, 2025
 * Invited speaker, Southeastern Quantum Conference, TN, US. 10/28, 2025
-* AMO seminar @ Johns Hopkins University, MD, US. 03/10, 2026
+* AMO seminar @ Johns Hopkins University, MD, US. 03/10, 2025
 * Physics Colloquium @ University of Maryland, Baltimore County, MD, US. 02/26, 2025 
 * Quantum seminar @ Columbia University, NY, US. 02/20, 2025
 * Atomic physics seminar @ University of Wisconsin–Madison, WI, US. 02/17, 2025
